@@ -1,8 +1,8 @@
 <h2 align="center">Drum-kit</h2>
-
+<hr/>
 ## Demo
 
-head to the following link to find a live demo
+head to the following link to find a live [demo](https://meryemba.github.io/Drum-kit/).
 
 <img src="./images/drumkit.png" alt="drum kit">
 ## Description 
